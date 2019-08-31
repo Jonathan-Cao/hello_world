@@ -1,3 +1,7 @@
 Hello World!
 My name is Jonathan
+<<<<<<< HEAD
 Branch content 
+=======
+Branch content 123
+>>>>>>> dfb72c63b7c518b1d3cd6acad35fdcbbb61c0ce8
